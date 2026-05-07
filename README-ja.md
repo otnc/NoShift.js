@@ -16,8 +16,8 @@
 
 > [!Warning]
 >   
-> このプロジェクトは現在アーカイブされています。サポートは終了しました。
-> 後継プロジェクトの『Purus』を楽しみにしましょう！
+> このプロジェクトは現在アーカイブされています。サポートは終了しました。  
+> 後継プロジェクトの _**Purus**_ を楽しみにしましょう！
 >
 > - [otoneko1102/purus](https://github.com/otoneko1102/purus) (~ v0.x)
 > - [@puruslang](https://github.com/puruslang) (Purus Community)
