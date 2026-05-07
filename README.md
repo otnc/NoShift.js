@@ -14,6 +14,15 @@
 
 > A joke language that lets you write JavaScript without pressing the Shift key.
 
+> [!Warning]
+>   
+> This project is currently archived. Support is no longer available.  
+> Let's look forward to _**Purus**_, the successor project to this one!
+>
+> - [otoneko1102/purus](https://github.com/otoneko1102/purus) (~ v0.x)
+> - [@puruslang](https://github.com/puruslang) (Purus Community)
+> - [puruslang/purus](https://github.com/puruslang/purus) (v1.x ~)
+
 ---
 
 Typing shifted symbols (`!`, `"`, `(`, `)`, `{`, `}` …) is tiring.  
@@ -114,6 +123,16 @@ console.log(result.outputText);
 - [Repository](https://github.com/otoneko1102/NoShift.js)
 
 ---
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=otoneko1102%2FNoShift.js&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=otoneko1102/NoShift.js&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=otoneko1102/NoShift.js&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=otoneko1102/NoShift.js&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ## License
 

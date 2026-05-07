@@ -14,6 +14,15 @@
 
 > Shift キーを押さずに JavaScript を書ける Joke 言語
 
+> [!Warning]
+>   
+> このプロジェクトは現在アーカイブされています。サポートは終了しました。
+> 後継プロジェクトの『Purus』を楽しみにしましょう！
+>
+> - [otoneko1102/purus](https://github.com/otoneko1102/purus) (~ v0.x)
+> - [@puruslang](https://github.com/puruslang) (Purus Community)
+> - [puruslang/purus](https://github.com/puruslang/purus) (v1.x ~)
+
 ---
 
 記号 (`!`, `"`, `(`, `)`, `{`, `}` …) を入力するときに Shift を押すのが面倒なので、Shift を押さずに JavaScript が書けるようにした Joke 言語です。  
@@ -113,6 +122,16 @@ console.log(result.outputText);
 - [リポジトリ](https://github.com/otoneko1102/NoShift.js)
 
 ---
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=otoneko1102%2FNoShift.js&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=otoneko1102/NoShift.js&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=otoneko1102/NoShift.js&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=otoneko1102/NoShift.js&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ## ライセンス
 
