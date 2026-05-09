@@ -9,7 +9,7 @@
   },
   "icon": "icons/noshift-extension-icon.png",
   "repository": {
-    "url": "https://github.com/otoneko1102/NoShift.js"
+    "url": "https://github.com/otnc/NoShift.js"
   },
   "activationEvents": [
     "onLanguage:noshift",
