@@ -110,7 +110,7 @@ console.log(result.outputText);
 - [prettier-plugin-noshift.js (npm)](https://www.npmjs.com/package/prettier-plugin-noshift.js) — 公式 Prettier プラグイン
 - [VS Code 拡張機能](https://marketplace.visualstudio.com/items?itemName=otoneko1102.noshift-vscode) — エディタサポート（シンタックスハイライト、スニペット等）
 - [ウェブサイト・プレイグラウンド](https://noshift.js.org)
-- [リポジトリ](https://github.com/otoneko1102/NoShift.js)
+- [リポジトリ](https://github.com/otnc/NoShift.js)
 
 ---
 
