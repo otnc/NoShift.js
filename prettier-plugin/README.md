@@ -12,9 +12,9 @@
 
 </div>
 
-> A [Prettier](https://prettier.io/) plugin for formatting [NoShift.js](https://github.com/otoneko1102/NoShift.js) (`.nsjs`) files.
+> A [Prettier](https://prettier.io/) plugin for formatting [NoShift.js](https://github.com/otnc/NoShift.js) (`.nsjs`) files.
 
-[Prettier](https://prettier.io/) is an opinionated code formatter. This plugin adds support for `.nsjs` files — the [NoShift.js](https://github.com/otoneko1102/NoShift.js) joke language that lets you write JavaScript without pressing the Shift key.
+[Prettier](https://prettier.io/) is an opinionated code formatter. This plugin adds support for `.nsjs` files — the [NoShift.js](https://github.com/otnc/NoShift.js) joke language that lets you write JavaScript without pressing the Shift key.
 
 > [!Important]  
 > **⚠ Breaking Changes (v0.1.0):** Syntax changes in NoShift.js v0.15.0 — `^3` is now `#`, `^6` is now Capitalize, `^\` is now `_`. New keyword aliases: `or`, `and`, `@or`, `@and`.
@@ -111,10 +111,10 @@ All standard Prettier options are supported. Common ones:
 - [prettier-plugin-noshift.js (npm)](https://www.npmjs.com/package/prettier-plugin-noshift.js) — The Official Prettier Plugin
 - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=otoneko1102.noshift-vscode) — Editor Support (Syntax Highlighting, Snippets)
 - [Website & Playground](https://noshift.js.org)
-- [Repository](https://github.com/otoneko1102/NoShift.js)
+- [Repository](https://github.com/otnc/NoShift.js)
 
 ---
 
 ## License
 
-[MIT](./LICENSE) © [otoneko.](https://github.com/otoneko1102)
+[MIT](./LICENSE) © [otoneko.](https://github.com/otnc)
