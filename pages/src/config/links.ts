@@ -1,7 +1,7 @@
 /** Centralized external links - edit here to update everywhere */
 export const links = {
-  github: "https://github.com/otoneko1102/NoShift.js",
-  githubAuthor: "https://github.com/otoneko1102",
+  github: "https://github.com/otnc/NoShift.js",
+  githubAuthor: "https://github.com/otnc",
   npm: "https://www.npmjs.com/package/noshift.js",
   npmLinter: "https://www.npmjs.com/package/@noshift.js/lint",
   npmPrettier: "https://www.npmjs.com/package/prettier-plugin-noshift.js",
