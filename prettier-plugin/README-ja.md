@@ -12,9 +12,9 @@
 
 </div>
 
-> [NoShift.js](https://github.com/otoneko1102/NoShift.js) (`.nsjs`) ファイルをフォーマットする [Prettier](https://prettier.io/) プラグイン
+> [NoShift.js](https://github.com/otnc/NoShift.js) (`.nsjs`) ファイルをフォーマットする [Prettier](https://prettier.io/) プラグイン
 
-[Prettier](https://prettier.io/) はコードフォーマッターです。このプラグインは、Shift キーを押さずに JavaScript を書ける Joke 言語 [NoShift.js](https://github.com/otoneko1102/NoShift.js) の `.nsjs` ファイルに対応します。
+[Prettier](https://prettier.io/) はコードフォーマッターです。このプラグインは、Shift キーを押さずに JavaScript を書ける Joke 言語 [NoShift.js](https://github.com/otnc/NoShift.js) の `.nsjs` ファイルに対応します。
 
 ---
 
@@ -108,10 +108,10 @@ function greet^8name^9 ^[
 - [prettier-plugin-noshift.js (npm)](https://www.npmjs.com/package/prettier-plugin-noshift.js) — 公式 Prettier プラグイン
 - [VS Code 拡張機能](https://marketplace.visualstudio.com/items?itemName=otoneko1102.noshift-vscode) — エディタサポート（シンタックスハイライト、スニペット等）
 - [ウェブサイト・プレイグラウンド](https://noshift.js.org)
-- [リポジトリ](https://github.com/otoneko1102/NoShift.js)
+- [リポジトリ](https://github.com/otnc/NoShift.js)
 
 ---
 
 ## ライセンス
 
-[MIT](./LICENSE) © [otoneko.](https://github.com/otoneko1102)
+[MIT](./LICENSE) © [otoneko.](https://github.com/otnc)
