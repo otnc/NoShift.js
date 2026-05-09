@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/otoneko1102/NoShift.js.git"
+    "url": "git+https://github.com/otnc/NoShift.js.git"
   },
   "keywords": [
     "noshift",
@@ -31,7 +31,7 @@
   "author": "otoneko.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/otoneko1102/NoShift.js/issues"
+    "url": "https://github.com/otnc/NoShift.js/issues"
   },
   "homepage": "https://noshift.js.org",
   "devDependencies": {
