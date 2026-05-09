@@ -1,6 +1,6 @@
 # example
 
-A [NoShift.js](https://github.com/otoneko1102/NoShift.js) project.
+A [NoShift.js](https://github.com/otnc/NoShift.js) project.
 
 ## Compile
 
